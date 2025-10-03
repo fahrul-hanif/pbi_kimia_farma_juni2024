@@ -1,6 +1,7 @@
 # 📊 Final Project: Kimia Farma Sales Analysis
 
 ## 📄 Laporan Proyek
+![Preview Dashboard](Screenshot%202024-06-30%20225605.png)
 
 [Lihat Laporan PDF Final Project](Final_Project-PBI_KF-Fahrul_Hanif.pdf)
 
